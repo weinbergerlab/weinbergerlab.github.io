@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Under construction!
 image: /img/hello_world.jpeg
 ---
 
