@@ -24,11 +24,11 @@ description: Learn more about our work
 # List of links in the navigation bar
 navbar-links:
   Projects in the lab: 
-    -"aboutus"
-    -'Vaccine-Evaluation'
-    -'Pneumococcal-Serotypes'
-    -'RSV-epidemiology'
-    -'Legionellosis'
+    -About the lab: "aboutus"
+    -Vaccine Evaluation: 'Vaccine-Evaluation'
+    -Pneumococcal serotypes: 'Pneumococcal-Serotypes'
+    -RSV epidemiology 'RSV-epidemiology'
+    -Legionellosis: 'Legionellosis'
   Resources:
     - Yale School of Public Health: "https://publichealth.yale.edu/"
   Author's home: "https://medicine.yale.edu/lab/Weinberger/"
