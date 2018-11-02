@@ -1,16 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About the lab
+subtitle: Quantitative and experimental approaches to understanding respiratory infections
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+We are an interdisciplinary lab that works primarily on understanding the epidemiology and biology of diseases caused by respiratory pathogens, including pneumococcus, RSV, and Legionella. We use a variety of approaches including statistical modeling, experimental microbiology, and field epidemiology. Browse our pages to learn mre about our work.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
